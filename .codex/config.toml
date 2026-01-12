@@ -1,0 +1,13 @@
+# Codex: profil do odpowiadania na pytania (tylko odczyt). Składnia według dokumentacji konfiguracji Codex;
+# przetestuj na swojej wersji. Do edycji (skill kb-dodaj-dokument) osobny profil z extends = ":workspace".
+default_permissions = "baza-pytania"
+
+[permissions.baza-pytania]
+extends = ":read-only"
+
+[permissions.baza-pytania.filesystem.":workspace_roots"]
+"90_zarzad/**" = "deny"
+"30_sprzedaz/klienci/**" = "deny"
+
+[permissions.baza-edycja]
+extends = ":workspace"

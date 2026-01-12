@@ -1,0 +1,36 @@
+# Teksty: zawsze końce linii LF (Windows i macOS widzą te same pliki, diff bez „zmian” całych plików)
+*.md      text eol=lf
+*.csv     text eol=lf
+*.json    text eol=lf
+*.jsonl   text eol=lf
+*.py      text eol=lf
+*.toml    text eol=lf
+*.yml     text eol=lf
+*.html    text eol=lf
+.githooks/* text eol=lf
+
+# Dokumenty Office: dla Git to binarne archiwa ZIP. Nie scalaj ich automatycznie (konflikt = decyzja człowieka).
+# diff=dokument: lokalny `git diff` pokaże tekst i tabele, jeśli raz ustawisz:
+#   git config diff.dokument.textconv "python narzedzia/podglad_tekstowy.py"
+*.docx    binary diff=dokument
+*.xlsx    binary diff=dokument
+*.pptx    binary diff=dokument
+*.pdf     binary
+*.png     binary
+*.jpg     binary
+*.stl     binary
+
+# CAD i duże pliki projektowe: Git LFS (raz na komputerze: git lfs install) + blokada edycji (lockable).
+# Plik lockable jest tylko do odczytu, dopóki nie wykonasz: git lfs lock <plik>. Zwolnienie: git lfs unlock <plik>.
+*.sldprt  filter=lfs diff=lfs merge=lfs -text lockable
+*.sldasm  filter=lfs diff=lfs merge=lfs -text lockable
+*.slddrw  filter=lfs diff=lfs merge=lfs -text lockable
+*.ipt     filter=lfs diff=lfs merge=lfs -text lockable
+*.iam     filter=lfs diff=lfs merge=lfs -text lockable
+*.idw     filter=lfs diff=lfs merge=lfs -text lockable
+*.dwg     filter=lfs diff=lfs merge=lfs -text lockable
+*.f3d     filter=lfs diff=lfs merge=lfs -text lockable
+*.FCStd   filter=lfs diff=lfs merge=lfs -text lockable
+*.3dm     filter=lfs diff=lfs merge=lfs -text lockable
+*.psd     filter=lfs diff=lfs merge=lfs -text lockable
+# Formaty neutralne (STEP, STL, PDF/PNG rysunku) zostają w zwykłym Git: małe, czytelne w przeglądarce GitHub.

@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./90_zarzad/**)",
+      "Read(./30_sprzedaz/klienci/**)",
+      "WebFetch",
+      "WebSearch"
+    ],
+    "ask": [
+      "Read(../baza_wiedzy_archiwum/**)"
+    ]
+  },
+  "sandbox": {
+    "enabled": true,
+    "allowUnsandboxedCommands": false
+  },
+  "skillOverrides": {
+    "kb-dodaj-dokument": "user-invocable-only",
+    "kb-obraz": "user-invocable-only",
+    "kb-mail": "user-invocable-only"
+  }
+}

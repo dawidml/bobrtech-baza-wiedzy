@@ -1,0 +1,9 @@
+#!/bin/sh
+# Włącz raz w folderze repozytorium: git config core.hooksPath .githooks
+# Przed każdym commitem: kontrola bazy, indeks i podgląd tekstowy docx/xlsx/pptx.
+PY=$(command -v python3 || command -v python || command -v py)
+[ -z "$PY" ] && { echo "Brak Pythona: zainstaluj Python 3"; exit 1; }
+"$PY" narzedzia/sprawdz_baze.py || exit 1
+"$PY" narzedzia/zbuduj_indeks.py || exit 1
+"$PY" narzedzia/podglad_tekstowy.py --wszystkie || exit 1
+git add INDEX.md index.jsonl */INDEX.md zalaczniki/podglad

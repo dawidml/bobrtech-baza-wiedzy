@@ -1,0 +1,3 @@
+pyyaml>=6.0
+pandas>=2.0   # skill kb-dane (liczenie)
+duckdb>=1.0   # opcjonalnie: SQL wprost na CSV

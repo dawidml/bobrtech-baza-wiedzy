@@ -1,0 +1,8 @@
+# Kto zatwierdza zmiany w danym folderze. GitHub sam poprosi te osoby o przegląd pull requesta.
+# W firmie wpisz zespoły z organizacji GitHub (muszą istnieć), np.:
+#   10_hr/        @bobrtech/hr
+#   20_jakosc/    @bobrtech/jakosc
+#   30_sprzedaz/  @bobrtech/sprzedaz
+#   60_it/        @bobrtech/it
+# Repozytorium szkoleniowe ma jedno konto:
+*  @dawidml
