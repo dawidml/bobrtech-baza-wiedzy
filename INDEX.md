@@ -1,5 +1,5 @@
 # INDEX: mapa bazy wiedzy BOBRTECH (repo)
-<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: 2026-01-12 -->
+<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: 2026-04-28 -->
 
 Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.
 
@@ -12,6 +12,7 @@ Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.
 | ceny, rabaty, warunki płatności, produkty, MOQ, czasy realizacji | `30_sprzedaz/` | Dyrektor Handlowy (Tomasz Wróbel) |
 | maszyny, kody błędów, BHP, magazyn i składowanie | `40_produkcja/` | Utrzymanie Ruchu (Łukasz Mazur) |
 | dostawcy: karty, oceny, kategorie | `50_zakupy/` | Dział Zakupów |
+| narzędzia AI, klasy informacji, incydenty bezpieczeństwa | `60_it/` | Dział IT i Bezpieczeństwa (Kamil Sadowski) |
 | liczby: reklamacje, zamówienia, oceny dostawców (licz skryptem) | `dane/` | właściciel w karcie danych |
 
 ## Źródła prawdy
@@ -20,6 +21,8 @@ Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.
 | MOQ i czasy realizacji | SP-KAT |
 | ceny wyrobów | SP-CEN |
 | dopłaty | SP-CEN |
+| dozwolone narzędzia AI | IT-POL-11 |
+| klasy informacji | IT-POL-11 |
 | limity noclegów | HR-POL-03 |
 | parametry produktów | SP-KAT |
 | rabaty | SP-CEN |

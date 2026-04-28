@@ -5,5 +5,5 @@ wlasciciel: "Biuro Zarządu"
 # 00_ogolne
 
 <!-- INDEKS:START (generowany, nie edytuj) -->
-- OG-SL-01 1.2: znaczenie skrótów (OTD, PPAP, 8D, KJ) i nazw systemów firmy (Reklamator, Delegatka, ERP) (`OG-SL-01_slownik_skrotow.md`, przegląd 2026-10-01)
+- OG-SL-01 1.3: znaczenie skrótów (OTD, PPAP, 8D, KJ) i nazw systemów firmy (Reklamator, Delegatka, ERP) (`OG-SL-01_slownik_skrotow.md`, przegląd 2027-04-01)
 <!-- INDEKS:END -->

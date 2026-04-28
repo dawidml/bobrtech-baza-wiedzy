@@ -7,6 +7,7 @@
 |---|---|
 | 5 Why | metoda analizy przyczyn źródłowych („5 razy dlaczego") |
 | 8D | raport ośmiu kroków rozwiązywania problemu jakościowego |
+| Bóbr | wewnętrzny asystent AI uruchomiony on-premise |
 | Delegatka | system do wniosków i rozliczeń podróży służbowych |
 | Kadrownik | system HR (urlopy, praca zdalna, nadgodziny) |
 | KAM | Key Account Manager: opiekun klienta strategicznego |

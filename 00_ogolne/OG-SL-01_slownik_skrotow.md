@@ -5,10 +5,10 @@ rodzaj: słownik
 tytul: Słownik skrótów i nazw własnych BOBRTECH
 opis: "znaczenie skrótów (OTD, PPAP, 8D, KJ) i nazw systemów firmy (Reklamator, Delegatka, ERP)"
 slowa_kluczowe: [skrót, słownik, co znaczy, OTD, PPAP, 8D, glossary, Abkürzung]
-wersja: "1.2"
+wersja: "1.3"
 status: obowiązujący
-obowiazuje_od: 2025-10-01
-nastepny_przeglad: 2026-10-01
+obowiazuje_od: 2026-04-01
+nastepny_przeglad: 2027-04-01
 wlasciciel: Biuro Zarządu
 dzial: Ogólne
 klasyfikacja: WEWNĘTRZNE
@@ -22,6 +22,7 @@ zrodlo_prawdy_dla: [znaczenie skrótów i nazw systemów]
 |---|---|
 | 5 Why | metoda analizy przyczyn źródłowych („5 razy dlaczego") |
 | 8D | raport ośmiu kroków rozwiązywania problemu jakościowego |
+| Bóbr | wewnętrzny asystent AI uruchomiony on-premise |
 | Delegatka | system do wniosków i rozliczeń podróży służbowych |
 | Kadrownik | system HR (urlopy, praca zdalna, nadgodziny) |
 | KAM | Key Account Manager: opiekun klienta strategicznego |
