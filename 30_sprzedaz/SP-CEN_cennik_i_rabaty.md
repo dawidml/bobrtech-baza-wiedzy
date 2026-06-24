@@ -5,35 +5,35 @@ rodzaj: cennik
 tytul: Cennik i polityka rabatowa
 opis: "aktualne ceny netto wszystkich wyrobów, dopłaty, rabaty wolumenowe, uprawnienia rabatowe, warunki płatności"
 slowa_kluczowe: [cena, cennik, ile kosztuje, rabat, upust, price list, Preis, przedpłata]
-wersja: "2026-H1"
+wersja: "2026-H2"
 status: obowiązujący
-obowiazuje_od: 2026-01-02
-obowiazuje_do: 2026-06-30
-nastepny_przeglad: 2026-06-01
+obowiazuje_od: 2026-07-01
+obowiazuje_do: 2026-12-31
+nastepny_przeglad: 2026-12-01
 wlasciciel: Dyrektor Handlowy (Tomasz Wróbel)
 dzial: Sprzedaż
 klasyfikacja: WEWNĘTRZNE
 wzorzec: oryginal
 oryginal: zalaczniki/oryginaly/SP-CEN.xlsx
-zastepuje: SP-CEN 2025-H2
+zastepuje: SP-CEN 2026-H1
 zrodlo_prawdy_dla: [ceny wyrobów, dopłaty, rabaty, warunki płatności]
 powiazane: [SP-KAT]
 ---
-# Cennik i polityka rabatowa (I półrocze 2026)
+# Cennik i polityka rabatowa (II półrocze 2026)
 
-## 1. Ceny netto wyrobów (od 2 stycznia 2026)
-Od 2 stycznia 2026 r. zmieniła się cena ramy BT-RAM-1200. Pozostałe ceny bez zmian.
+## 1. Ceny netto wyrobów (od 1 lipca 2026)
+Wzrost cen stali stopowej: od 1 lipca 2026 r. zmieniły się ceny wałów BT-WAL-40 i BT-WAL-55. Pozostałe ceny bez zmian.
 
-| Kod | Nazwa | Cena netto od 02.01.2026 | Cena do 31.12.2025 |
+| Kod | Nazwa | Cena netto od 01.07.2026 | Cena do 30.06.2026 |
 |---|---|---|---|
-| BT-WAL-40 | Wał napędowy Ø40, L=600 mm | 186,00 zł | bez zmian |
-| BT-WAL-55 | Wał napędowy Ø55, L=900 mm | 349,00 zł | bez zmian |
+| BT-WAL-40 | Wał napędowy Ø40, L=600 mm | **198,00 zł** | 186,00 zł |
+| BT-WAL-55 | Wał napędowy Ø55, L=900 mm | **372,00 zł** | 349,00 zł |
 | BT-ZEB-12 | Koło zębate z=24, m=3 | 142,00 zł | bez zmian |
 | BT-WSP-300 | Wspornik spawany 300 mm | 98,50 zł | bez zmian |
 | BT-OSL-7 | Osłona przekładni | 76,00 zł | bez zmian |
 | BT-PIN-20 | Sworzeń Ø20 z zawleczką | 11,20 zł | bez zmian |
 | BT-TUL-35 | Tuleja ślizgowa Ø35 | 64,00 zł | bez zmian |
-| BT-RAM-1200 | Rama nośna 1200 mm | **1 240,00 zł** | 1 190,00 zł |
+| BT-RAM-1200 | Rama nośna 1200 mm | 1 240,00 zł | bez zmian |
 
 Parametry wyrobów, MOQ i czasy realizacji: katalog SP-KAT.
 
