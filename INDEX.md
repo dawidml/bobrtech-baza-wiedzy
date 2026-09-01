@@ -1,5 +1,5 @@
 # INDEX: mapa bazy wiedzy BOBRTECH (repo)
-<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: 2026-04-28 -->
+<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: 2026-09-01 -->
 
 Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.
 
@@ -25,6 +25,7 @@ Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.
 | klasy informacji | IT-POL-11 |
 | limity noclegów | HR-POL-03 |
 | parametry produktów | SP-KAT |
+| podległość służbowa | OG-ORG |
 | rabaty | SP-CEN |
 | terminy i klasy reklamacji | JK-PR-07 |
 | warunki płatności | SP-CEN |
