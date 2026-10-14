@@ -45,3 +45,5 @@ powiazane: [UR-ZAL-08A]
 
 ## 4. Kontakt
 Dyżur Utrzymania Ruchu Łomża: wewn. 455 (24/7).
+
+> Uwaga: od firmware 3.2 (09.2026) panel pokazuje także kod **E08**, opis w UR-ZAL-08A (transkrypcja naklejki z panelu).
