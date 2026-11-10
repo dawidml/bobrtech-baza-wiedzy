@@ -1,0 +1,438 @@
+{
+ "eksport": "ERP BOBRTECH",
+ "data": "2026-11-02",
+ "rekordy": [
+  {
+   "nr_zamowienia": "ZS/2026/10/001",
+   "klient": "AgroNord AB",
+   "kod": "BT-WAL-40",
+   "ilosc": 200,
+   "wartosc_netto_pln": 39600.0,
+   "data_zamowienia": "2026-10-14",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/002",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-RAM-1200",
+   "ilosc": 200,
+   "wartosc_netto_pln": 248000.0,
+   "data_zamowienia": "2026-10-23",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/003",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-WAL-40",
+   "ilosc": 200,
+   "wartosc_netto_pln": 39600.0,
+   "data_zamowienia": "2026-10-02",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/004",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-OSL-7",
+   "ilosc": 600,
+   "wartosc_netto_pln": 45600.0,
+   "data_zamowienia": "2026-10-01",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/005",
+   "klient": "AgroNord AB",
+   "kod": "BT-PIN-20",
+   "ilosc": 50,
+   "wartosc_netto_pln": 560.0,
+   "data_zamowienia": "2026-10-24",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/006",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-OSL-7",
+   "ilosc": 400,
+   "wartosc_netto_pln": 30400.0,
+   "data_zamowienia": "2026-10-09",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/007",
+   "klient": "AgroNord AB",
+   "kod": "BT-ZEB-12",
+   "ilosc": 50,
+   "wartosc_netto_pln": 7100.0,
+   "data_zamowienia": "2026-10-03",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/008",
+   "klient": "Nordfjell Maskin AS",
+   "kod": "BT-WAL-40",
+   "ilosc": 600,
+   "wartosc_netto_pln": 118800.0,
+   "data_zamowienia": "2026-10-21",
+   "status": "wysłane"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/009",
+   "klient": "Landtechnik Weber GmbH",
+   "kod": "BT-WAL-40",
+   "ilosc": 200,
+   "wartosc_netto_pln": 39600.0,
+   "data_zamowienia": "2026-10-13",
+   "status": "wysłane"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/010",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-ZEB-12",
+   "ilosc": 100,
+   "wartosc_netto_pln": 14200.0,
+   "data_zamowienia": "2026-10-23",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/011",
+   "klient": "Nordfjell Maskin AS",
+   "kod": "BT-ZEB-12",
+   "ilosc": 50,
+   "wartosc_netto_pln": 7100.0,
+   "data_zamowienia": "2026-10-17",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/012",
+   "klient": "Landtechnik Weber GmbH",
+   "kod": "BT-PIN-20",
+   "ilosc": 600,
+   "wartosc_netto_pln": 6720.0,
+   "data_zamowienia": "2026-10-21",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/013",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-WAL-40",
+   "ilosc": 100,
+   "wartosc_netto_pln": 19800.0,
+   "data_zamowienia": "2026-10-31",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/014",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-ZEB-12",
+   "ilosc": 50,
+   "wartosc_netto_pln": 7100.0,
+   "data_zamowienia": "2026-10-20",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/015",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-WAL-40",
+   "ilosc": 50,
+   "wartosc_netto_pln": 9900.0,
+   "data_zamowienia": "2026-10-20",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/016",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-RAM-1200",
+   "ilosc": 600,
+   "wartosc_netto_pln": 744000.0,
+   "data_zamowienia": "2026-10-20",
+   "status": "wysłane"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/017",
+   "klient": "AgroNord AB",
+   "kod": "BT-ZEB-12",
+   "ilosc": 100,
+   "wartosc_netto_pln": 14200.0,
+   "data_zamowienia": "2026-10-30",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/018",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-RAM-1200",
+   "ilosc": 100,
+   "wartosc_netto_pln": 124000.0,
+   "data_zamowienia": "2026-10-04",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/019",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-ZEB-12",
+   "ilosc": 100,
+   "wartosc_netto_pln": 14200.0,
+   "data_zamowienia": "2026-10-16",
+   "status": "wysłane"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/020",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-PIN-20",
+   "ilosc": 50,
+   "wartosc_netto_pln": 560.0,
+   "data_zamowienia": "2026-10-11",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/021",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-OSL-7",
+   "ilosc": 30,
+   "wartosc_netto_pln": 2280.0,
+   "data_zamowienia": "2026-10-27",
+   "status": "wysłane"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/022",
+   "klient": "Landtechnik Weber GmbH",
+   "kod": "BT-RAM-1200",
+   "ilosc": 50,
+   "wartosc_netto_pln": 62000.0,
+   "data_zamowienia": "2026-10-17",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/023",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-PIN-20",
+   "ilosc": 400,
+   "wartosc_netto_pln": 4480.0,
+   "data_zamowienia": "2026-10-10",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/024",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-RAM-1200",
+   "ilosc": 400,
+   "wartosc_netto_pln": 496000.0,
+   "data_zamowienia": "2026-10-01",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/025",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-OSL-7",
+   "ilosc": 30,
+   "wartosc_netto_pln": 2280.0,
+   "data_zamowienia": "2026-10-30",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/026",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-PIN-20",
+   "ilosc": 600,
+   "wartosc_netto_pln": 6720.0,
+   "data_zamowienia": "2026-10-31",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/027",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-WAL-40",
+   "ilosc": 200,
+   "wartosc_netto_pln": 39600.0,
+   "data_zamowienia": "2026-10-26",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/028",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-OSL-7",
+   "ilosc": 400,
+   "wartosc_netto_pln": 30400.0,
+   "data_zamowienia": "2026-10-24",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/029",
+   "klient": "Landtechnik Weber GmbH",
+   "kod": "BT-PIN-20",
+   "ilosc": 50,
+   "wartosc_netto_pln": 560.0,
+   "data_zamowienia": "2026-10-26",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/030",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-ZEB-12",
+   "ilosc": 400,
+   "wartosc_netto_pln": 56800.0,
+   "data_zamowienia": "2026-10-19",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/031",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-WAL-55",
+   "ilosc": 200,
+   "wartosc_netto_pln": 74400.0,
+   "data_zamowienia": "2026-10-01",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/032",
+   "klient": "Landtechnik Weber GmbH",
+   "kod": "BT-OSL-7",
+   "ilosc": 600,
+   "wartosc_netto_pln": 45600.0,
+   "data_zamowienia": "2026-10-25",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/033",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-RAM-1200",
+   "ilosc": 200,
+   "wartosc_netto_pln": 248000.0,
+   "data_zamowienia": "2026-10-13",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/034",
+   "klient": "Nordfjell Maskin AS",
+   "kod": "BT-WAL-55",
+   "ilosc": 100,
+   "wartosc_netto_pln": 37200.0,
+   "data_zamowienia": "2026-10-30",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/035",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-RAM-1200",
+   "ilosc": 600,
+   "wartosc_netto_pln": 744000.0,
+   "data_zamowienia": "2026-10-17",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/036",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-WAL-55",
+   "ilosc": 50,
+   "wartosc_netto_pln": 18600.0,
+   "data_zamowienia": "2026-10-18",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/037",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-WSP-300",
+   "ilosc": 50,
+   "wartosc_netto_pln": 4925.0,
+   "data_zamowienia": "2026-10-29",
+   "status": "wysłane"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/038",
+   "klient": "Landtechnik Weber GmbH",
+   "kod": "BT-OSL-7",
+   "ilosc": 100,
+   "wartosc_netto_pln": 7600.0,
+   "data_zamowienia": "2026-10-27",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/039",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-WAL-55",
+   "ilosc": 200,
+   "wartosc_netto_pln": 74400.0,
+   "data_zamowienia": "2026-10-05",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/040",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-PIN-20",
+   "ilosc": 30,
+   "wartosc_netto_pln": 336.0,
+   "data_zamowienia": "2026-10-27",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/041",
+   "klient": "Nordfjell Maskin AS",
+   "kod": "BT-WSP-300",
+   "ilosc": 200,
+   "wartosc_netto_pln": 19700.0,
+   "data_zamowienia": "2026-10-29",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/042",
+   "klient": "AgroNord AB",
+   "kod": "BT-ZEB-12",
+   "ilosc": 100,
+   "wartosc_netto_pln": 14200.0,
+   "data_zamowienia": "2026-10-09",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/043",
+   "klient": "Nordfjell Maskin AS",
+   "kod": "BT-WAL-40",
+   "ilosc": 600,
+   "wartosc_netto_pln": 118800.0,
+   "data_zamowienia": "2026-10-10",
+   "status": "wysłane"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/044",
+   "klient": "FarmaPol Maszyny sp. z o.o.",
+   "kod": "BT-OSL-7",
+   "ilosc": 100,
+   "wartosc_netto_pln": 7600.0,
+   "data_zamowienia": "2026-10-07",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/045",
+   "klient": "AgroNord AB",
+   "kod": "BT-WSP-300",
+   "ilosc": 30,
+   "wartosc_netto_pln": 2955.0,
+   "data_zamowienia": "2026-10-30",
+   "status": "wstrzymane, brak materiału"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/046",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-TUL-35",
+   "ilosc": 30,
+   "wartosc_netto_pln": 1920.0,
+   "data_zamowienia": "2026-10-20",
+   "status": "w realizacji"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/047",
+   "klient": "Polmasz Rolnik S.A.",
+   "kod": "BT-WAL-55",
+   "ilosc": 400,
+   "wartosc_netto_pln": 148800.0,
+   "data_zamowienia": "2026-10-24",
+   "status": "potwierdzone"
+  },
+  {
+   "nr_zamowienia": "ZS/2026/10/048",
+   "klient": "Baltic Agri UAB",
+   "kod": "BT-OSL-7",
+   "ilosc": 400,
+   "wartosc_netto_pln": 30400.0,
+   "data_zamowienia": "2026-10-17",
+   "status": "potwierdzone"
+  }
+ ]
+}

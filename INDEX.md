@@ -1,5 +1,5 @@
 # INDEX: mapa bazy wiedzy BOBRTECH (repo)
-<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: 2026-09-01 -->
+<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: 2026-11-10 -->
 
 Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.
 
@@ -36,6 +36,7 @@ Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.
 
 ## Dane do liczenia (licz skryptem, nie szacuj)
 - JK-DANE-01: liczba, koszty i przyczyny reklamacji według produktu, klienta, kraju i okresu (karta: `dane/reklamacje_2024_2026.md`, plik: `dane/reklamacje_2024_2026.csv`)
+- SP-DANE-01: zamówienia klientów: klient, kod wyrobu, ilość, wartość netto, data, status (karta: `dane/zamowienia_2026-10.md`, plik: `dane/zamowienia_2026-10.json`)
 - ZK-OC-2025: ranking i kategorie dostawców (A, B, C), ocena punktowa, OTD, liczba reklamacji, status (karta: `dane/dostawcy_ocena_2025.md`, plik: `dane/dostawcy_ocena_2025.csv`)
 
 ## Obrazy i oryginały
