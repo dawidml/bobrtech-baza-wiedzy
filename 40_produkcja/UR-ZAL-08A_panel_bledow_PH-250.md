@@ -34,4 +34,4 @@ Transkrypcja naklejki na panelu (firmware 3.2, wrzesień 2026). Kody E01-E07: sz
 | E07 | Błąd PLC: tylko elektryk SEP |
 | **E08** | **Awaria czujnika temperatury oleju: STOP, wezwij UR (wewn. 455)** |
 
-Kod E08 pojawił się z aktualizacją firmware 3.2 i nie ma go jeszcze w instrukcji UR-INS-08 (notatka ze spotkania UR 14.10.2026).
+Kod E08 pojawił się z aktualizacją firmware 3.2. Od 12.11.2026 jest w instrukcji UR-INS-08 v2.4 §3.
