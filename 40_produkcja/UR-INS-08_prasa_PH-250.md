@@ -3,17 +3,17 @@ id: UR-INS-08
 typ: dokument
 rodzaj: instrukcja
 tytul: "Instrukcja eksploatacji i BHP: prasa hydrauliczna PH-250"
-opis: "obsługa i BHP prasy PH-250, kody błędów E01-E07, kto może restartować szafę sterowniczą"
-slowa_kluczowe: [prasa, PH-250, BHP, kod błędu, E01, E07, restart, SEP, Fehlercode]
-wersja: "2.3"
+opis: "obsługa i BHP prasy PH-250, kody błędów E01-E08, kto może restartować szafę sterowniczą"
+slowa_kluczowe: [prasa, PH-250, BHP, kod błędu, E01, E07, E08, restart, SEP, Fehlercode]
+wersja: "2.4"
 status: obowiązujący
-obowiazuje_od: 2025-11-10
+obowiazuje_od: 2026-11-12
 nastepny_przeglad: 2027-11-10
 wlasciciel: Utrzymanie Ruchu (Łukasz Mazur)
 dzial: Utrzymanie Ruchu
 klasyfikacja: WEWNĘTRZNE
-wzorzec: oryginal
-oryginal: zalaczniki/oryginaly/UR-INS-08.pdf
+wzorzec: md
+zastepuje: UR-INS-08 v2.3
 powiazane: [UR-ZAL-08A]
 ---
 # Prasa hydrauliczna PH-250: instrukcja eksploatacji i BHP
@@ -42,8 +42,7 @@ powiazane: [UR-ZAL-08A]
 | E05 | Przekroczenie siły nacisku 250 t | sprawdzić narzędzie i ustawienia receptury |
 | E06 | Niski poziom oleju | uzupełnić olej HLP 46, sprawdzić wycieki |
 | E07 | Błąd komunikacji PLC | restart szafy sterowniczej **wyłącznie przez elektryka z uprawnieniami SEP** |
+| E08 | Awaria czujnika temperatury oleju (od firmware 3.2) | **STOP**, nie kasować błędu, wezwać UR (wewn. 455) |
 
 ## 4. Kontakt
 Dyżur Utrzymania Ruchu Łomża: wewn. 455 (24/7).
-
-> Uwaga: od firmware 3.2 (09.2026) panel pokazuje także kod **E08**, opis w UR-ZAL-08A (transkrypcja naklejki z panelu).

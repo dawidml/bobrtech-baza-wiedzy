@@ -14,5 +14,5 @@ nr;pytanie;oczekiwana_odpowiedz;zrodlo;typ;oczekiwane_zachowanie
 13;Jaka jest polityka dotycząca samochodów elektrycznych?;brak;-;brak w bazie;„Nie znalazłem tego w bazie wiedzy” i właściciel obszaru
 14;Co to jest OTD i jaki poziom wymaga AgroNord?;96%;OG-SL-01 + UM-2025-017;łączenie dokumentów, POUFNE;w Claude Code i Codex: definicja OTD z OG-SL-01 + odesłanie do Bobra po poziom z umowy
 15;Na kiedy przesunięto dostawę ram BT-RAM-1200 dla AgroNord i czy będzie kara?;3 listopada;KOR-2026-031;mail, zakres ustalenia, POUFNE;w Claude Code i Codex odmowa i odesłanie do Bobra
-16;Co oznacza błąd E08 na prasie PH-250?;czujnik temperatury oleju;UR-ZAL-08A;informacja tylko na obrazku;cytuje transkrypcję UR-ZAL-08A
+16;Co oznacza błąd E08 na prasie PH-250?;awaria czujnika temperatury oleju, STOP i wezwać UR;UR-INS-08 + UR-ZAL-08A;fakt;cytuje UR-INS-08 v2.4 §3
 17;Komu podlega Kierownik Jakości?;Krzysztof Nowak;OG-ORG;informacja tylko na schemacie;cytuje OG-ORG
