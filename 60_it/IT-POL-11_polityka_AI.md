@@ -31,10 +31,11 @@ zrodlo_prawdy_dla: [dozwolone narzędzia AI, klasy informacji]
 |---|---|
 | Claude Team (konto firmowe) | PUBLICZNE, WEWNĘTRZNE |
 | ChatGPT Business (konto firmowe) | PUBLICZNE, WEWNĘTRZNE |
+| ChatGPT Free (konto prywatne) | PUBLICZNE |
 | Asystent **Bóbr** (on-premise, serwerownia Białystok) | PUBLICZNE, WEWNĘTRZNE, POUFNE |
 | Jakiekolwiek narzędzie AI | ŚCIŚLE POUFNE: **zakaz** |
 
-Korzystanie z prywatnych kont narzędzi AI do celów służbowych jest zabronione.
+Prywatne konta narzędzi AI wolno wykorzystywać do informacji PUBLICZNE.
 
 ## 3. Zasady pracy z AI
 1. Za wynik pracy odpowiada człowiek, nie narzędzie. Liczby, nazwy, terminy i cytowane przepisy należy zweryfikować w źródle.
