@@ -5,30 +5,30 @@ rodzaj: cennik
 tytul: Cennik i polityka rabatowa
 opis: "aktualne ceny netto wszystkich wyrobów, dopłaty, rabaty wolumenowe, uprawnienia rabatowe, warunki płatności"
 slowa_kluczowe: [cena, cennik, ile kosztuje, rabat, upust, price list, Preis, przedpłata]
-wersja: "2026-H2"
+wersja: "2027-H1"
 status: obowiązujący
-obowiazuje_od: 2026-07-01
-obowiazuje_do: 2026-12-31
-nastepny_przeglad: 2026-12-01
+obowiazuje_od: 2027-01-01
+obowiazuje_do: 2027-06-30
+nastepny_przeglad: 2027-06-01
 wlasciciel: Dyrektor Handlowy (Tomasz Wróbel)
 dzial: Sprzedaż
 klasyfikacja: WEWNĘTRZNE
 wzorzec: oryginal
 oryginal: zalaczniki/oryginaly/SP-CEN.xlsx
-zastepuje: SP-CEN 2026-H1
+zastepuje: SP-CEN 2026-H2
 zrodlo_prawdy_dla: [ceny wyrobów, dopłaty, rabaty, warunki płatności]
 powiazane: [SP-KAT]
 ---
-# Cennik i polityka rabatowa (II półrocze 2026)
+# Cennik i polityka rabatowa (I półrocze 2027)
 
-## 1. Ceny netto wyrobów (od 1 lipca 2026)
-Wzrost cen stali stopowej: od 1 lipca 2026 r. zmieniły się ceny wałów BT-WAL-40 i BT-WAL-55. Pozostałe ceny bez zmian.
+## 1. Ceny netto wyrobów (od 1 stycznia 2027)
+Koszty stali i energii: od 1 stycznia 2027 r. zmieniają się ceny wałów BT-WAL-40, BT-WAL-55 i koła BT-ZEB-12. Pozostałe ceny bez zmian.
 
-| Kod | Nazwa | Cena netto od 01.07.2026 | Cena do 30.06.2026 |
+| Kod | Nazwa | Cena netto od 01.01.2027 | Cena do 31.12.2026 |
 |---|---|---|---|
-| BT-WAL-40 | Wał napędowy Ø40, L=600 mm | **198,00 zł** | 186,00 zł |
-| BT-WAL-55 | Wał napędowy Ø55, L=900 mm | **372,00 zł** | 349,00 zł |
-| BT-ZEB-12 | Koło zębate z=24, m=3 | 142,00 zł | bez zmian |
+| BT-WAL-40 | Wał napędowy Ø40, L=600 mm | **204,00 zł** | 198,00 zł |
+| BT-WAL-55 | Wał napędowy Ø55, L=900 mm | **384,00 zł** | 372,00 zł |
+| BT-ZEB-12 | Koło zębate z=24, m=3 | **146,00 zł** | 142,00 zł |
 | BT-WSP-300 | Wspornik spawany 300 mm | 98,50 zł | bez zmian |
 | BT-OSL-7 | Osłona przekładni | 76,00 zł | bez zmian |
 | BT-PIN-20 | Sworzeń Ø20 z zawleczką | 11,20 zł | bez zmian |
