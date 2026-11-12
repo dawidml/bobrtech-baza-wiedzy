@@ -25,6 +25,7 @@ wymagane:
   dane: [id, typ, tytul, opis, plik, zrodlo, ostatnia_aktualizacja, wlasciciel, klasyfikacja]
 ranga: [polityka, regulamin, procedura, instrukcja, FAQ, notatka]
 firma: BOBRTECH
+nazwa_bazy: baza_wiedzy
 wzor_kodu_produktu: 'BT-[A-Z]+-\d+'
 ```
 
