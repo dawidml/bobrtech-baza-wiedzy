@@ -15,7 +15,7 @@ Wniosek składa się w systemie Kadrownik najpóźniej do czwartku poprzedniego 
 
 Przełożony może odwołać dzień zdalny z przyczyn operacyjnych z wyprzedzeniem 1 dnia.
 
-Praca zdalna odbywa się z terytorium Polski. Praca zdalna z zagranicy wymaga zgody Działu HR i Działu Prawnego.
+Praca zdalna odbywa się z terytorium Polski. Praca zdalna z zagranicy: maksymalnie 10 dni roboczych w roku, po zgodzie Działu HR i Działu Prawnego.
 
 ### 3. Sprzęt i bezpieczeństwo
 
@@ -27,4 +27,4 @@ Dokumenty oznaczone jako POUFNE nie mogą być drukowane poza siedzibą firmy.
 
 ### 4. Ryczałt
 
-Za każdy dzień pracy zdalnej przysługuje ryczałt 15 zł na pokrycie kosztów energii i internetu, maksymalnie 120 zł miesięcznie. Ryczałt wypłacany jest z wynagrodzeniem za kolejny miesiąc.
+Za każdy dzień pracy zdalnej przysługuje ryczałt 20 zł na pokrycie kosztów energii i internetu, maksymalnie 160 zł miesięcznie. Ryczałt wypłacany jest z wynagrodzeniem za kolejny miesiąc.
