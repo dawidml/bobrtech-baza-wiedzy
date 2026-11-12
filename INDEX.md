@@ -1,5 +1,5 @@
-# INDEX: mapa bazy wiedzy BOBRTECH (repo)
-<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: 2026-11-10 -->
+# INDEX: mapa bazy wiedzy BOBRTECH (baza_wiedzy)
+<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: 2026-11-12 -->
 
 Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.
 

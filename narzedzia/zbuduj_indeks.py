@@ -78,7 +78,8 @@ elif (root / ".git").exists():
     archiwum = "w historii Git tego repozytorium (`git log`, tag `dzien-1`)"
 else:
     archiwum = "poza tym folderem (osobne archiwum)"
-tekst = [f"# INDEX: mapa bazy wiedzy{firma} ({root.name})",
+nazwa = SCH.get("nazwa_bazy") or root.name  # stała nazwa: indeks nie zależy od folderu, do którego sklonowano repozytorium
+tekst = [f"# INDEX: mapa bazy wiedzy{firma} ({nazwa})",
          f"<!-- Plik generowany skryptem zbuduj_indeks.py (skill kb-indeks). Nie edytuj ręcznie. Stan: {DZIS} -->", "",
          "Zacznij tutaj, potem otwórz `INDEX.md` w folderze tematycznym.", "", "## Gdzie szukać", "| Pytanie dotyczy | Folder | Właściciel obszaru |", "|---|---|---|"]
 tekst += [f"| {o or '-'} | `{f}/` | {w or '-'} |" for f, o, w in gdzie]
