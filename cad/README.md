@@ -1,6 +1,6 @@
 # cad/: pliki konstrukcyjne w Git (przykład)
 
-Aktualna rewizja: **A**
+Aktualna rewizja: **B**
 
 ## BT-TUL-35 Tuleja ślizgowa Ø35 (CuSn12)
 
@@ -13,6 +13,7 @@ Aktualna rewizja: **A**
 | Rew. | Data | Zmiana | Autor |
 |---|---|---|---|
 | A | 2026-05-18 | pierwsze wydanie, L = 40 mm | Biuro Konstrukcyjne |
+| B | 2026-11-12 | długość L 40 → 50 mm (zlecenie zmiany ZK-2026-114, klient Landtechnik Weber) | Biuro Konstrukcyjne |
 
 ## Zasady
 1. Model natywny i jego eksport (STL lub STEP + rysunek PDF/PNG) zawsze w tym samym commicie.
